@@ -13,18 +13,18 @@
 		</section>
 		<div class="content_2">
 			
-			<div class="panel panel-default">
-			    <div class="panel-heading">Detalles de clase:Mat</div>
-			    <div class="panel-footer">
-			    	<span>Asignatura: Matematicas</span>
+			<div class="panel panel-default" border= "1px solid black" >
+			    <div class="list-group-item list-group-item-danger" ALIGN="center" >Detalles de la clase: </div>
+			    <div class="list-group-item list-group-item-info">
+			    	<span >Nombre de asignatura: Matematicas</span>
 			    </div>
-			    <div class="panel-body">
+			    <div class="list-group-item list-group-item-info">
 			    	<span>Horas: 09:40 - 11:20</span>
 			    </div>
-			    <div class="panel-footer">
+			    <div class="list-group-item list-group-item-info">
 			    	<span>Sala: G202</span>
 			    </div>
-			    <div class="panel-body">
+			    <div class="list-group-item list-group-item-info">
 			    	<span>Profesor: José Rojas</span>
 			    </div>
 
