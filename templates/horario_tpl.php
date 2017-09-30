@@ -14,9 +14,9 @@
 		<div class="content_2">
 			
 			<div class="panel panel-default">
-			    <div class="panel-heading">Detalles de clase:</div>
+			    <div class="panel-heading">Detalles de clase:Mat</div>
 			    <div class="panel-footer">
-			    	<span>Asignatura: Bases de Datos</span>
+			    	<span>Asignatura: Matematicas</span>
 			    </div>
 			    <div class="panel-body">
 			    	<span>Horas: 09:40 - 11:20</span>
@@ -29,58 +29,58 @@
 			    </div>
 
 			</div>
-			<table class="table table-inverse">
+			<table class="table table-inverse" width="137px" height ="39px">
 			  <thead>
 			    <tr>
-			      <th>Lunes</th>
-			      <th>Martes</th>
-			      <th>Miercoles</th>
-			      <th>Jueves</th>
-			      <th>Viernes</th>
+			      <th >Lunes</th>
+			      <th >Martes</th>
+			      <th >Miercoles</th>
+			      <th >Jueves</th>
+			      <th >Viernes</th>
 			    </tr>
 			  </thead>
-			  <tbody>
-			    <tr>
-			      <td></td>
-			      <td></td>
-			      <td></td>
-			      <td></td>
-			      <td></td>
+			  <tbody >
+			    <tr >
+			      <td>Mat</td>
+			      <td>--</td>
+			      <td>--</td>
+			      <td>--</td>
+			      <td>Mat</td>
+			    </tr>
+			    <tr height ="39px">
+			      <td>Ing</td>
+			      <td>Dai</td>
+			      <td>--</td>
+			      <td>AE</td>
+			      <td>Mat</td>
 			    </tr>
 			    <tr>
-			      <td></td>
-			      <td></td>
-			      <td></td>
-			      <td></td>
-			      <td></td>
+			      <td>Ingles</td>
+			      <td>Dai </td>
+			      <td>Dai</td>
+			      <td>--</td>
+			      <td>Mat</td>
 			    </tr>
 			    <tr>
-			      <td></td>
-			      <td> </td>
-			      <td></td>
-			      <td></td>
-			      <td></td>
+			      <td> -- </td>
+			      <td>--</td>
+			      <td>--</td>
+			      <td>--</td>
+			      <td>--</td>
 			    </tr>
 			    <tr>
-			      <td></td>
-			      <td></td>
-			      <td></td>
-			      <td></td>
-			      <td></td>
+			      <td> -- </td>
+			      <td>--</td>
+			      <td>--</td>
+			      <td>--</td>
+			      <td>For</td>
 			    </tr>
 			    <tr>
-			      <td></td>
-			      <td></td>
-			      <td></td>
-			      <td></td>
-			      <td></td>
-			    </tr>
-			    <tr>
-			      <td></td>
-			      <td></td>
-			      <td></td>
-			      <td></td>
-			      <td></td>
+			      <td>AE</td>
+			      <td>--</td>
+			      <td>--</td>
+			      <td>--</td>
+			      <td>For</td>
 			    </tr>
 			  </tbody>
 			</table>		

@@ -9,45 +9,71 @@
 
 	<div class="content">
 			<section> 
-				<h2>Cursos</h2>
+				<h2>Asignaturas :</h2>
 			
 			</section>
-		<div id="accordion" role="tablist" class = "accordion" >
+			<div class="content_2">
+			<div class="panel-group" id="accordion">
+			  <div class="panel panel-default">
+			    <div class="panel-heading">
+			      <h4 class="panel-title">
+			        <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Gestion Empresarial</a>
+			      </h4>
+			    </div>
+			    <div id="collapse1" class="panel-collapse collapse in">
+			      <div class="panel-body">
+			      	<ul class="nav nav-pills nav-stacked">
+			      	  
+			      	  <li>Profesor: Dagoberto Cabrera</li>
+			      	  <li>Sala de clases:   303G </li>
+			      	  <li>Nota Promedio:    65</li>
+			      	</ul>
+			    </div>
+			  </div>
+			  <div class="panel panel-default">
+			    <div class="panel-heading">
+			      <h4 class="panel-title">
+			        <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Matemáticas 2</a>
+			      </h4>
+			    </div>
+			    <div id="collapse2" class="panel-collapse collapse">
+			      <div class="panel-body">
+						   <ul class="nav nav-pills nav-stacked">
+			      	  
+						    <li>Profesor: Dagoberto Cabrera</li>
+			      	  <li>Sala de clases:   303G </li>
+			      	  <li>Nota Promedio:    65</li>
+			      	</ul>
+			      	</div>
+			    </div>
+			  </div>
+			  <div class="panel panel-default">
+			    <div class="panel-heading"> 
+			      <h4 class="panel-title">
+			        <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Teoría de Sistemas</a>
+			      </h4>
+			    </div>
+			    <div id="collapse3" class="panel-collapse collapse">
+			      <div class="panel-body">
+							<ul class="nav nav-pills nav-stacked">
+								<li>Profesor: Dagoberto Cabrera</li>
+			      	  <li>Sala de clases:   303G </li>
+			      	  <li>Nota Promedio:    65</li>
+			      	  
+			      	</ul>
+			      	</div>
+			    </div>
+			  </div>
+			</div> 
+		</div>
+	</div> 
+	
+    
   
 
-   
-  		<div class="card">
-    		<div class="card-header" role="tab" id="headingTwo">
-      			<h5 class="mb-0">
-        			<a class="collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          				Administracion de Empresas
-        			</a>
-      			</h5>
-    		</div>
-    		<div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
-      		<div class="card-body">
-        		Inf
-      		</div>
-    	</div>
-  </div>
-  <div class="card2">
-    <div class="card-header" role="tab" id="headingThree">
-      <h5 class="mb-0">
-        <a class="collapsed" data-toggle="collapse" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Gestion de Empresas
-        </a>
-      </h5>
-    </div>
-    <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion">
-      <div class="card-body">
-       info2
-      </div>
-    </div>
-  </div>
-</div>
     		
   		
-	</div>
+	
 			<?php include 'footer.php' ?>
 </body>
 </html>
