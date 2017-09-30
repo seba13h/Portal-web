@@ -14,8 +14,6 @@
 		"lastNames"=>$last_names,
 		"grade"=>$grade
 	);
-
-	header("Content-type: application/json");
-	echo json_encode($response);
-
+	
+	header('Location: admin.php'); 
 ?>

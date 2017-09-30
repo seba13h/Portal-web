@@ -3,7 +3,7 @@
 	$databaseConfig = array(
 	    "host" => "localhost",
 	    "username" => "root",
-	    "password" => "",
+	    "password" => "12345",
 	    "db" => "mantenedor_alumnos"
 	);
 

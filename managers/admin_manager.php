@@ -10,7 +10,6 @@
 			return $res;
 		}
 
-
 		public static function findByUsernameAndPassword($username, $password){
 			$connection = Connection::open();
 			$res = $connection->query(

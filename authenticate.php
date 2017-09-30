@@ -8,6 +8,7 @@
 	$login = AdminManager::findByUsernameAndPassword($admin_receive, $passw_receive);
 
 	if($login!=null){
+		echo("aca");
 		session_start();
 		$_SESSION['user_name'] = $login->name;
 		// a qué pantalla va tras login
