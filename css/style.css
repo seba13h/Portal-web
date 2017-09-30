@@ -1,0 +1,91 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	width: 70%;
+	margin: 0px auto;
+}
+
+header{
+	background-color: green;
+	width: 100%;
+	height: 5em;
+	text-align: right;
+	border-radius: 1px 1px 15px 15px;
+}
+
+
+.navigation > ul > li > .button > a{
+	text-decoration: none;
+	color: #EAEAEA;
+	font-size: 1.5em;
+	font-family: sans-serif;
+	cursor: pointer;
+	border-radius: 8px;
+}
+
+.button {
+	width: 100%;
+	background-color: #6BBFCE;
+	border: 2px solid black;
+	padding: 1px;
+	border-radius: 1px 1px 15px 15px;
+	text-align: center;
+}
+
+.navigation > ul > li > .button:hover{
+	background-color: #4ABBCE;
+	box-shadow: 1px 1px 10px white;
+	border: 2px solid white;
+	cursor: pointer;
+}
+
+.navigation > ul > li{
+	list-style: none;
+	display: inline-block;
+	width: 50px;
+	margin-top: 20px;
+	margin-right: 60px;
+}
+
+footer{
+	background-color: black;
+	padding-top: 1em;
+	height: 3em;
+	color: white;
+	border-radius: 1px 1px 15px 15px;
+}
+
+.item{
+	height: 100%;
+}
+
+
+
+.contenedor-administracion{
+	margin-top: 100px;
+}
+#parrafo-acordeon{
+	color:white;
+}
+.form--hidden{
+	display: none;
+}
+#contenedor-login{
+	margin-top:200px;
+}
+.cerrar-sesion{
+    right: 100px;
+    position: absolute;
+}
+.alumnos{
+	background-color: rgba(0, 0, 0, 0.09);
+	border-radius: 5px;
+	text-align: center;
+}
+
+.accordion{
+	background-color: red;
+}
